@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prueba Cloudflare</title>
+</head>
+<body>
+    <h1>Hola Didier</h1>
+    <p>Mi primera página alojada en Cloudflare.</p>
+</body>
+</html>
